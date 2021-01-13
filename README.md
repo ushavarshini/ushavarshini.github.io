@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Hello to my Page
 
 You can use the [editor on GitHub](https://github.com/ushavarshini/ushavarshini.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+My Custom Content
 
 ### Markdown
 
@@ -15,8 +17,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- 1
+- 2
 
 1. Numbered
 2. List
